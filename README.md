@@ -1,6 +1,6 @@
-# Procject Name goe here
+# Time Tracker
 
-- Procject ecription
+- Project description
 
 ## Live preview
 
